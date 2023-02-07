@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Database.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.394379"
+     inkscape:cx="422.0164"
+     inkscape:cy="556.5064"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8656">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop8652" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0;"
+         offset="1"
+         id="stop8654" />
+    </linearGradient>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2437" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2434" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8656"
+       id="linearGradient8658"
+       x1="397.60284"
+       y1="598.24121"
+       x2="397.62231"
+       y2="559.78333"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <style
+       id="style824">
+.MsftOfcThm_Text1_Fill_v2 {
+ fill:#000000; 
+}
+</style>
+    <g
+       id="Icons"
+       transform="matrix(0.26458333,0,0,0.26458333,92.373968,135.70571)"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="C:\Users\clint\Nextcloud\Articles\VR human experiment\Procedural experimentation\Procedural experimentation\Figs\database.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="M 77,79 V 19 C 77,13.154 62.059,10 48,10 33.941,10 19,13.154 19,19 v 60 c 0,5.846 14.941,9 29,9 14.059,0 29,-3.154 29,-9 z M 48,12 c 15.453,0 27,3.7 27,7 0,3.3 -11.547,7 -27,7 -15.453,0 -27,-3.7 -27,-7 0,-3.3 11.547,-7 27,-7 z M 21,22.46 C 25.529,26.08 37.033,28 48,28 58.967,28 70.471,26.08 75,22.46 V 39 c 0,3.3 -11.547,7 -27,7 -15.453,0 -27,-3.7 -27,-7 z m 0,20 C 25.529,46.08 37.033,48 48,48 58.967,48 70.471,46.08 75,42.46 V 59 C 75,62.3 63.453,66 48,66 32.547,66 21,62.3 21,59 Z M 21,79 V 62.46 C 25.529,66.08 37.033,68 48,68 58.967,68 70.471,66.08 75,62.46 V 79 c 0,3.3 -11.547,7 -27,7 -15.453,0 -27,-3.7 -27,-7 z"
+         class="MsftOfcThm_Text1_Fill_v2"
+         id="path826"
+         style="fill:#000000;fill-opacity:1" />
+      <circle
+         cx="68"
+         cy="36"
+         r="2"
+         class="MsftOfcThm_Text1_Fill_v2"
+         id="circle828"
+         style="fill:#000000;fill-opacity:1" />
+      <circle
+         cx="68"
+         cy="56"
+         r="2"
+         class="MsftOfcThm_Text1_Fill_v2"
+         id="circle830"
+         style="fill:#000000;fill-opacity:1" />
+      <circle
+         cx="68"
+         cy="76"
+         r="2"
+         class="MsftOfcThm_Text1_Fill_v2"
+         id="circle832"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke-width:0.32125984;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill-rule:nonzero"
+       d="m 386.34888,598.09474 c -7.48591,-0.9868 -12.97812,-2.70031 -15.20615,-4.74417 -0.71509,-0.65596 -0.72411,-0.76778 -0.72411,-8.97555 0,-4.57122 0.052,-8.3113 0.11559,-8.3113 0.0636,0 1.21494,0.50793 2.55859,1.12873 5.26769,2.43382 13.48753,3.69861 24.03716,3.69861 10.56458,0 18.73458,-1.26562 24.10161,-3.7336 1.3082,-0.60156 2.43056,-1.09374 2.49413,-1.09374 0.0636,0 0.11559,3.74008 0.11559,8.3113 0,8.20777 -0.009,8.31959 -0.7241,8.97555 -2.29948,2.1094 -7.80577,3.78726 -15.67665,4.77695 -4.59177,0.57737 -16.60458,0.5587 -21.09166,-0.0328 z m 32.4237,-7.93442 c 0.77711,-0.89874 0.70486,-1.75491 -0.22675,-2.68651 -0.94148,-0.94148 -1.77401,-1.0014 -2.76494,-0.19899 -0.71943,0.58255 -0.96086,2.15151 -0.45663,2.96738 0.65006,1.05182 2.50614,1.00775 3.44832,-0.0819 z"
+       id="path1072"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\clint\Nextcloud\Articles\VR human experiment\Procedural experimentation\Procedural experimentation\Figs\database.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <style
+       id="style2258">
+.MsftOfcThm_Text1_Fill_v2 {
+ fill:#000000; 
+}
+</style>
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0516944;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 388.96336,598.08998 c -4.07314,-0.27544 -9.85984,-1.40196 -13.1542,-2.56078 -1.8461,-0.64939 -3.44384,-1.4843 -4.30871,-2.25155 l -0.67955,-0.60284 -0.0808,-3.75979 c -0.0444,-2.06789 -0.0538,-5.72363 -0.0207,-8.12386 l 0.06,-4.36407 2.11259,0.92598 c 6.33595,2.77714 13.73131,3.81723 25.97944,3.65377 10.85951,-0.14492 16.9367,-1.16582 22.98321,-3.86093 l 1.6339,-0.72827 0.0557,4.20788 c 0.0306,2.31433 0.0195,5.97221 -0.0248,8.12861 l -0.0805,3.92072 -0.70552,0.62587 c -2.4846,2.20412 -10.27021,4.28566 -17.96023,4.80182 -2.81624,0.18903 -12.94789,0.18098 -15.8099,-0.0126 z m 29.24853,-7.19852 c 1.22027,-0.64845 1.6322,-2.03534 0.91891,-3.0938 -0.80869,-1.2 -2.08736,-1.59276 -3.12521,-0.95994 -0.73756,0.44972 -1.03331,0.99192 -1.1198,2.05295 -0.0613,0.75167 -0.0118,1.03279 0.25712,1.45952 0.18316,0.29068 0.49548,0.59384 0.69404,0.67367 0.6164,0.24782 1.7817,0.18285 2.37494,-0.1324 z"
+       id="path8054"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\clint\Nextcloud\Articles\VR human experiment\Procedural experimentation\Procedural experimentation\Figs\database.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0516944;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 390.93486,578.61904 c -9.33763,-0.64993 -17.271,-2.73622 -19.83236,-5.21544 l -0.84479,-0.8177 v -8.49478 -8.49479 l 0.52296,0.34418 c 4.65551,3.0639 14.85041,4.99751 26.34929,4.99751 11.51217,0 21.68839,-1.93006 26.34928,-4.99751 l 0.52296,-0.34418 v 8.49479 8.49478 l -0.84478,0.8177 c -2.62398,2.53983 -10.43096,4.5585 -20.23464,5.23211 -2.71379,0.18647 -9.199,0.17745 -11.98792,-0.0167 z m 27.24399,-7.92219 c 0.5733,-0.31813 0.99388,-1.07718 0.99388,-1.7937 0,-0.71652 -0.42058,-1.47558 -0.99388,-1.79371 -0.20446,-0.11346 -0.71014,-0.20885 -1.12373,-0.21199 -1.87663,-0.0142 -2.70089,2.3772 -1.24236,3.60447 0.55405,0.4662 1.70619,0.56112 2.36609,0.19493 z"
+       id="path8294"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\clint\Nextcloud\Articles\VR human experiment\Procedural experimentation\Procedural experimentation\Figs\database.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:url(#linearGradient8658);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0516944;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 387.87754,597.93419 c -3.62216,-0.36073 -9.41476,-1.56358 -11.98792,-2.48933 -1.77076,-0.63706 -3.52518,-1.55921 -4.31176,-2.2663 l -0.69125,-0.6214 -0.0964,-5.471 c -0.053,-3.00904 -0.0424,-6.6037 0.0235,-7.98812 l 0.11989,-2.51712 1.62408,0.71029 c 4.13431,1.80814 7.79636,2.7086 13.79117,3.39111 3.64798,0.41532 17.32311,0.41199 21.40125,-0.005 3.35002,-0.34271 6.50297,-0.90007 8.93059,-1.57869 1.73554,-0.48515 4.89644,-1.65631 6.0585,-2.24476 l 0.58749,-0.2975 0.11982,2.04677 c 0.0659,1.12572 0.0758,4.71839 0.022,7.98371 -0.0965,5.85397 -0.10288,5.94228 -0.45666,6.31887 -1.43487,1.52735 -5.74701,3.15874 -10.98953,4.15762 -4.65862,0.88763 -5.23243,0.92679 -14.24869,0.97248 -4.64632,0.0235 -9.09955,-0.0221 -9.89606,-0.10142 z m 30.99067,-7.50677 c 0.54481,-0.58407 0.62847,-0.77379 0.62847,-1.42532 0,-2.47463 -3.37642,-3.45943 -4.40794,-1.28566 -0.29812,0.62823 -0.3417,2.04414 -0.0788,2.55831 0.38851,0.75968 0.78617,0.92986 2.04797,0.87645 1.15567,-0.0489 1.19569,-0.0649 1.81026,-0.72378 z"
+       id="path8613"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\clint\Nextcloud\Articles\VR human experiment\Procedural experimentation\Procedural experimentation\Figs\database.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.255192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 117.11502,158.03608 0.0371,-17.7917"
+       id="path8940"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\clint\Nextcloud\Articles\VR human experiment\Procedural experimentation\Procedural experimentation\Figs\database_fillup.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
